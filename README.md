@@ -38,8 +38,8 @@ I'm an **AI Engineer** passionate about solving real-world problems with **machi
 **Core Skills:**
 - **Languages**: Python, Embedded C
 - **ML/AI**: TensorFlow, PyTorch, OpenCV, Hugging Face, spaCy, Langchain
-- **Domains**: Machine Learning, Computer Vision, NLP, LLM, Agentic AI
-- **Tools**: Git, Docker, Ubuntu, Jupyter, AWS (learning)
+- **Domains**: Machine Learning, Computer Vision, NLP, Agentic AI
+- **Tools**: Git, Docker, Jupyter, AWS (learning)
 
 ## 🏆 Featured Projects
 

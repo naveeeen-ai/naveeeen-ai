@@ -62,13 +62,6 @@ Built an AI-powered solution for our drone navigation, showcased in a national c
 *2023–Present*  
 - Led a team of 10 in developing technical projects
 
-## 💻 LeetCode Stats
-
-<div align="center">
-  
-![LeetCode Stats](https://leetcard.jacoblin.cool/naveeeen_ai?theme=dark&font=Noto%20Sans%20TC)
-
-</div>
 
 ## 🎯 Currently Working On
 - 🤖 Building advanced AI agents for automation
